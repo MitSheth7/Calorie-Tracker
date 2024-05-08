@@ -24,3 +24,8 @@ This application requires the following Python libraries:
 - `matplotlib.pyplot`
 
 We hope this application helps you in maintaining a healthy diet and achieving your nutrition goals!
+
+
+
+![image](https://github.com/MitSheth7/Calorie-Tracker/assets/88057396/18d271ba-e642-4442-a329-e822a7a52973)   ![image](https://github.com/MitSheth7/Calorie-Tracker/assets/88057396/4ab677e1-6383-4cef-b28e-061fcce6ee35)
+
